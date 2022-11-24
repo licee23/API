@@ -1,0 +1,110 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Overlord Vol. 02 (Mangá)",
+      "img": "https://leitura.com.br/image/cache/products/9788545714958-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Um corpo na biblioteca (Capa Dura) ",
+      "img": "https://m.media-amazon.com/images/I/81J7m2qT9KL.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Cidade das almas perdidas (Vol.5 Os Instrumentos Mortais)",
+      "img": "https://leitura.com.br/image/cache/products/9788501403285-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "My Hero Academia Vol. 30 (Mangá)",
+      "img": "https://leitura.com.br/image/cache/products/9786555942200-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Assassin's Creed: Bandeira Negra",
+      "img": "https://m.media-amazon.com/images/I/51egly6d5OL._SX335_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Branco, Vermelho e Sangue Azul",
+      "img": "https://leitura.com.br/image/cache/products/9788555340949-500x500.jpg"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "autor(a)": "Hugin Miyama",
+      "ano de lancamento": 2014,
+      "sobre": "O protagonista Momonga é um assíduo jogador do mais famoso jogo do gênero “DMMO-RPG”, o YGGDRASIL. E também líder da “Ainz Ooal Gown”, a maior e melhor guilda existente no jogo. Com a perda de popularidade do jogo todos os jogadores foram embora menos Momonga que, sozinho com os NPCs, resolveu ficar até a data de encerramento do servidor. Porém, ao perceber que continuava dentro do jogo após passado o tempo do encerramento, descobre que não está em YGGDRASIL, e sim, em um mundo desconhecido, diferente do jogo e também do mundo real. Momonga decide permanecer, iniciando suas atividades para aumentar sua reputação neste mundo novo. Assim, caso os antigos membros da guilda estivessem nesse mesmo mundo, talvez possam de alguma forma ouvir o seu nome e assim se encontra"
+    },
+    {
+      "id": 2,
+      "autor(a)": "Agatha Christie",
+      "ano de lancamento": "1ª edição em 2014",
+      "sobre": "O corpo de uma jovem é encontrado no tapete da biblioteca dos Bantry, às sete da manhã. A vítima é uma completa desconhecida e o casal Bantry decide chamar as autoridades para investigar o caso — e também, é claro, Miss Marple, detetive amadora e amiga da sra. Bantry. Tudo se complica ainda mais quando chega até eles a notícia de outra adolescente morta, carbonizada dentro de um carro incendiado em uma pedreira. Qual será a possível conexão entre os dois incidentes?"
+    },
+    {
+      "id": 3,
+      "autor(a)": "Cassandra Clare",
+      "ano de lancamento": 2013,
+      "sobre": "Quando Jace e Clary voltam a se encontrar, ela fica horrorizada ao descobrir que a magia da demônio Lilith ligou Jace a Sebastian. O perverso irmão de Clary transformou Jace em um servo do mal. Para piorar, ninguém parece acreditar que existe uma forma de quebrar o feitiço e libertar Jace. Mas Clary e seus amigos vão tentar mesmo assim. Ela está disposta a fazer qualquer coisa para salvar Jace. Enquanto Alec, Magnus, Isabelle e Simon barganham com as Irmãs de Ferro, com demônios de ordem superior e com a Rainha das Fadas em busca de uma solução, Clary decide arriscar tudo num jogo muito mais perigoso. Mas se Clary falhar, pode perder a própria vida. Novas Marcas, mentiras e as recordações de seu Jace são suas armas."
+    },
+    {
+      "id": 4,
+      "autor(a)": "Kohei Horikoshi",
+      "ano de lancamento": 2014,
+      "sobre": "Ei, ei, por que as coisas ficaram assim?! O vilão colossal tá avançando cada vez mais, e ele não para de destruir tudo! Tenho que reportar a situação... Todos estão lutando com toda sua força! Tenho que proteger todas as pessoas que puder! Eu preciso passar pra frente o sentimento dos meus amigos que caíram! ”Plus Ultra”!!"
+    },
+    {
+      "id": 5,
+      "autor(a)": "Oliver Bowden",
+      "ano de lancamento": 2013,
+      "sobre": "Edward Kenway - o jovem, impetuoso e ambicioso filho de um mercador de lã - não resiste ao fascínio de uma vida de glória e riquezas e aventuras em alto-mar. Quando a herdade da família de Kenway é atacada, parece ser a oportunidade perfeita para o rapaz escapar dos grilhões da responsabilidade, içar velas e levantar âncora. E assim que evidências incontestáveis de uma conspiração mortal começam a vir à tona, ameaçando destruir tudo o que mais ama, Kenway não consegue resistir ao clamor da vingança."
+    },
+    {
+      "id": 6,
+      "autor(a)": "Casey McQuiston",
+      "ano de lancamento": 2019,
+      "sobre": "Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois."
+    }
+  ],
+  "detalhes": [
+    {
+      "id": 1,
+      "dimensoes": "20 x 13,2cm",
+      "categorias": "Ficção científica, Aventura, Fantasia e Ação",
+      "preco": "R$29,90"
+    },
+    {
+      "id": 2,
+      "dimensoes": "21,2 x 13,6cm",
+      "categorias": "Mistério, Ação e Aventura",
+      "preco": "R$46,90"
+    },
+    {
+      "id": 3,
+      "dimensoes": "23 x 16cm",
+      "categorias": "Fantasia, Romance, Terror, Ação e Aventura",
+      "preco": "R$32,90"
+    },
+    {
+      "id": 4,
+      "dimensoes": "20,5 x 13,5cm",
+      "categorias": "Ficção de aventura, Fantasia científica, História de super-herói, Comédia, Ficção científica",
+      "preco": "R$29,90"
+    },
+    {
+      "id": 5,
+      "dimensoes": "23 x 15,5cm",
+      "categorias": "Ficção, Ação e Aventura",
+      "preco": "R$28,90"
+    },
+    {
+      "id": 6,
+      "dimensoes": "22,8 x 16cm",
+      "categorias": "Romance e Ficcção",
+      "preco": "R$49,99"
+    }
+  ]
+}

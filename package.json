@@ -1,0 +1,16 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Criando um servidor Json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node code.js"
+  },
+  "author": "Alice",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "npm": "^2.15.12"
+  }
+}
